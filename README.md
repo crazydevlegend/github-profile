@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Robert M. Carden
 - 👀 I’m interested in blockchain development
 - 📫 crazy010323@gmail.com, ch395423@protonmail.com
 
