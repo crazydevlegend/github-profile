@@ -9,6 +9,6 @@ Ethereum, blockchain-based distributed platform featuring smart contract functio
 Solidity, Ethereum computer language for writing smart contracts
 DApps, software consisting of frontend and distributed backend
 
-I have 3+ years of experience in Blockchain, Ethereum dapp, Wallet, Solidity Smart Contracts, New Cryptocurrency, and Cryptocurrency exchange.
+I have 5+ years of experience in Blockchain, Ethereum dapp, Wallet, Solidity Smart Contracts, New Cryptocurrency, and Cryptocurrency exchange.
 
 I also have extensive experience in Web and Mobile development.
