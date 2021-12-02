@@ -1,5 +1,5 @@
 - 👀 I’m interested in blockchain development
-- 📫 crazy010323@gmail.com, ch395423@protonmail.com, crazyupw3@outlook.com
+- 📫 crazy010323@gmail.com
 
 ## Reliable and passionate blockchain developer with 100% available long-term business relationships!
 
