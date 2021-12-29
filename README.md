@@ -1,5 +1,6 @@
 - 👀 I’m interested in blockchain development
 - 📫 crazy010323@gmail.com
+- ![image](https://user-images.githubusercontent.com/94694049/147617997-ded9b42e-3020-4aa4-adef-699ad5fa2097.png) : live.cid.3dd8933c95493ba
 
 ## Reliable and passionate blockchain developer with 100% available long-term business relationships!
 
