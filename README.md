@@ -1,5 +1,5 @@
 - 👀 I’m interested in blockchain development
-- 📫 crazy010323@gmail.com, live.cid.3dd8933c95493ba, https://t.me/crazy010323, https://twitter.com/crazy010323
+- 📫 crazy010323@gmail.com, live.cid.3dd8933c95493ba, https://t.me/crazy010323, https://twitter.com/crazy010323, https://www.linkedin.com/in/robert-carden/
 
 ## Reliable and passionate blockchain developer with 100% available long-term business relationships!
 
