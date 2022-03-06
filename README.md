@@ -10,8 +10,9 @@
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   
-[![Twitter](https://img.shields.io/badge/-Twitter-green?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/crazy010323)
-[![Telegram](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram&logoColor=white)](https://t.me/crazydev0407)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/crazy010323)
+[![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/crazydev0407)
+[![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.7117ab74680529ef)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/crazy010323)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-carden/)
 
