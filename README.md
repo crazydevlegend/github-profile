@@ -1,7 +1,3 @@
-- 📫 crazy010323@gmail.com, live.cid.3dd8933c95493ba, https://t.me/crazy010323, https://twitter.com/crazy010323, https://www.linkedin.com/in/robert-carden/
-
-#### I have 5+ years of experience in Blockchain, Ethereum dapp, Wallet, Solidity Smart Contracts, New Cryptocurrency, and Cryptocurrency exchange.
-
 #### I also have extensive experience in Web and Mobile development.
 
 <h1 align="center">
@@ -21,7 +17,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/crazy010323/crazy010323/blob/main/coder.gif">
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as a senior **Blockchain** 𝚊𝚗𝚍 **Full-stack** developer
