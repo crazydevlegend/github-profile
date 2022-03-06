@@ -1,4 +1,3 @@
-- 👀 I’m interested in blockchain development
 - 📫 crazy010323@gmail.com, live.cid.3dd8933c95493ba, https://t.me/crazy010323, https://twitter.com/crazy010323, https://www.linkedin.com/in/robert-carden/
 
 ## Reliable and passionate blockchain developer with 100% available long-term business relationships!
@@ -15,7 +14,7 @@
 
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://github.com/crazy010323/crazy010323/blob/master/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   
