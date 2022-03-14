@@ -3,8 +3,8 @@
     <img src="https://github.com/crazy010323/crazy010323/blob/main/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, it's Robert!
+  #
   <br /><img src="https://profile-counter.glitch.me/crazy010323/count.svg" />
-  <br />
   <br />
   <div align=center>
   <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=crazy010323&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
@@ -22,7 +22,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/crazy010323/crazy010323/blob/main/coder.gif">
+  <img align="right" height="200" width="300" alt="GIF" src="https://github.com/crazy010323/crazy010323/blob/main/coder.gif">
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as a senior **Blockchain** 𝚊𝚗𝚍 **Full-stack** developer
@@ -34,9 +34,6 @@
 <br/>
 
 #
-
-#
-
 
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
