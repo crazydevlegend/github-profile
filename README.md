@@ -38,32 +38,34 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <p>
-  <code><img width="15%" height="50px" src="https://github.com/crazy010323/crazy010323/blob/main/solidity.svg"></code>
-  <code><img width="15%" src="https://github.com/crazy010323/crazy010323/blob/main/rust.svg"></code>
-  <code><img width="15%" src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/solidity.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/rust.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/javascript.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/nodejs.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/python.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/c++.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/java.svg"></code>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/openzeppelin.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/react.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/vue.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/angular.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/bootstrap.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/codeigniter.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/django.svg"></code>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/hardhat.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/truffle.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/express.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/angular.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/laravel.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/codeigniter.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/django.svg"></code>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code>
-  <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/jest.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/mocha.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/mongodb.svg"></code>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/npm.svg"></code>
+  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/yarn.svg"></code>
 </p>
