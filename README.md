@@ -11,6 +11,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-carden/)
 <br />
 💖 [Visitor Count](https://profile-counter.glitch.me/crazy010323/count.svg) 💖
+<br><br> <img src="https://profile-counter.glitch.me/crazy010323/count.svg" />
 
 </h1>
 
