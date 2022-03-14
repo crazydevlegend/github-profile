@@ -1,9 +1,8 @@
 <h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/crazy010323/crazy010323/blob/main/Earth.gif" width="24px" style="max-width:100%;">
-  </a>
+  <img src="https://github.com/crazy010323/crazy010323/blob/main/Earth.gif" width="24px" style="max-width:100%;">
   𝐇𝐞𝐥𝐥𝐨, it's Robert!
-  #
+  <img src="https://github.com/crazy010323/crazy010323/blob/main/Earth.gif" width="24px" style="max-width:100%;">
+  
   <br /><img src="https://profile-counter.glitch.me/crazy010323/count.svg" />
   <br />
   <div align=center>
