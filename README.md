@@ -44,7 +44,6 @@
   <code><img width="14%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/nodejs.svg"></code>
   <code><img width="14%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/python.svg"></code>
   <code><img width="14%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/c++.svg"></code>
-  <code><img width="14%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/java.svg"></code>
   <br />
   <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/openzeppelin.svg"></code>
   <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/react.svg"></code>
