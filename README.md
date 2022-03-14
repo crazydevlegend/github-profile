@@ -62,9 +62,14 @@
   <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/django.svg"></code>
   <br />
   <br />
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/mysql.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/sqlite.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/mongodb.svg"></code>
+  <br />
+  <br />
   <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/jest.svg"></code>
   <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/mocha.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/mongodb.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/chai.svg"></code>
   <br />
   <br />
   <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/npm.svg"></code>
