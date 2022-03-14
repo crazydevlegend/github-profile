@@ -38,8 +38,8 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <p>
-  <code><img width="15%" src="./solidity.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="15%" src="https://github.com/crazy010323/crazy010323/blob/main/solidity.svg"></code>
+  <code><img width="15%" src="https://github.com/crazy010323/crazy010323/blob/main/rust.svg"></code>
   <code><img width="15%" src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
