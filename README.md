@@ -2,7 +2,7 @@
   <a target="_blank">
     <img src="https://github.com/crazy010323/crazy010323/blob/main/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, It's **Robert**! &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  𝐇𝐞𝐥𝐥𝐨, it's Robert!
   <br /><img src="https://profile-counter.glitch.me/crazy010323/count.svg" />
   
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/crazy010323)
