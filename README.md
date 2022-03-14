@@ -38,31 +38,35 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <p>
-  <code><img width="14%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/solidity.svg"></code>
-  <code><img width="14%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/rust.svg"></code>
-  <code><img width="14%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/javascript.svg"></code>
-  <code><img width="14%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/nodejs.svg"></code>
-  <code><img width="14%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/python.svg"></code>
-  <code><img width="14%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/c++.svg"></code>
+  <code><img width="14%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/solidity.svg"></code>
+  <code><img width="14%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/rust.svg"></code>
+  <code><img width="14%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/javascript.svg"></code>
+  <code><img width="14%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/nodejs.svg"></code>
+  <code><img width="14%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/python.svg"></code>
+  <code><img width="14%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/c++.svg"></code>
   <br />
-  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/openzeppelin.svg"></code>
-  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/react.svg"></code>
-  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/vue.svg"></code>
-  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/angular.svg"></code>
-  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/bootstrap.svg"></code>
-  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/jquery.svg"></code>
   <br />
-  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/hardhat.svg"></code>
-  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/truffle.svg"></code>
-  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/express.svg"></code>
-  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/laravel.svg"></code>
-  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/codeigniter.svg"></code>
-  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/django.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/openzeppelin.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/react.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/vue.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/angular.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/bootstrap.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/jquery.svg"></code>
   <br />
-  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/jest.svg"></code>
-  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/mocha.svg"></code>
-  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/mongodb.svg"></code>
   <br />
-  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/npm.svg"></code>
-  <code><img width="15%" height="100px" src="https://github.com/crazy010323/crazy010323/blob/main/yarn.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/hardhat.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/truffle.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/express.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/laravel.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/codeigniter.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/django.svg"></code>
+  <br />
+  <br />
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/jest.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/mocha.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/mongodb.svg"></code>
+  <br />
+  <br />
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/npm.svg"></code>
+  <code><img width="15%" height="80px" src="https://github.com/crazy010323/crazy010323/blob/main/yarn.svg"></code>
 </p>
