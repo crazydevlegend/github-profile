@@ -1,5 +1,3 @@
-#### I also have extensive experience in Web and Mobile development.
-
 <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/crazy010323/crazy010323/blob/main/Earth.gif" width="24px" style="max-width:100%;">
@@ -40,7 +38,7 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="15%" src="./solidity.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="15%" src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
