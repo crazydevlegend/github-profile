@@ -2,7 +2,8 @@
   <a target="_blank">
     <img src="https://github.com/crazy010323/crazy010323/blob/main/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  𝐇𝐞𝐥𝐥𝐨, It's **Robert**! &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <br /><img src="https://profile-counter.glitch.me/crazy010323/count.svg" />
   
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/crazy010323)
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/crazydev0407)
@@ -10,8 +11,6 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/crazy010323)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-carden/)
 <br />
-💖 [Visitor Count](https://profile-counter.glitch.me/crazy010323/count.svg) 💖
-<br><br> <img src="https://profile-counter.glitch.me/crazy010323/count.svg" />
 
 </h1>
 
