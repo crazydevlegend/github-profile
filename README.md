@@ -5,6 +5,7 @@
   𝐇𝐞𝐥𝐥𝐨, it's Robert!
   <br /><img src="https://profile-counter.glitch.me/crazy010323/count.svg" />
   <br />
+  <br />
   <div align=center>
   <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=crazy010323&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
   <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=crazy010323&theme=onedark" />
@@ -15,7 +16,6 @@
   [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/crazy010323)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-carden/)
   </div>
-<br />
 
 </h1>
 
