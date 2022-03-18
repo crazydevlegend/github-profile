@@ -25,7 +25,7 @@
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as a senior **Blockchain** 𝚊𝚗𝚍 **Full-stack** developer
-- 🌱 𝙸’𝚖 now working at [**Cryptochi**](https://www.cryptochi.io/) - a metaverse gaming company
+- 🌱 𝙸’𝚖 now working at [**Cryptochi**](https://www.linkedin.com/company/cryptochi) - a metaverse gaming company
 - 🤔 I’m looking to collaborate on anything!
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://t.me/crazydev0407/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
