@@ -8,13 +8,12 @@
   <div align=center>
   <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=crazy010323&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
   <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=crazy010323&theme=onedark" />
-  
   [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/crazy010323)
   [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/crazydev0407)
   [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.7117ab74680529ef)
   [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/crazy010323)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-carden/)
-  [![Portfolio](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white)](https://crazy-dev-legend.netlify.app/)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=iota&logoColor=white)](https://crazy-dev-legend.netlify.app/)
   </div>
 
 </h1>
