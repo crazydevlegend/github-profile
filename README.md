@@ -5,7 +5,7 @@
   
   <br /><img src="https://profile-counter.glitch.me/crazy010323/count.svg" />
   <br />
-  <div align=right>
+  <div align=center>
   <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=crazy010323&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
   <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=crazy010323&theme=onedark" />
   [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/crazy010323)
