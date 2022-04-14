@@ -10,7 +10,7 @@
   <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=crazy010323&theme=onedark" />
   
   [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/crazy010323)
-  [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/crazydev0407)
+  [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/crazydevlegend)
   [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.7117ab74680529ef)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-carden/)
   [![Linkedin](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://crazy-dev-legend.netlify.app/)
