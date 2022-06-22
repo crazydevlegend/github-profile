@@ -42,7 +42,7 @@
   <code><img width="14%" height="80px" src="https://github.com/crazydevlegend/crazydevlegend/blob/main/solidity.svg"></code>
   <code><img width="14%" height="80px" src="https://github.com/crazydevlegend/crazydevlegend/blob/main/rust.svg"></code>
   <code><img width="14%" height="80px" src="https://github.com/crazydevlegend/crazydevlegend/blob/main/javascript.svg"></code>
-  <code><img width="14%" height="80px" src="https://github.com/crazydevlegend/crazydevlegend/blob/main/nodejs.svg"></code>
+  <code><img width="14%" height="80px" src="https://github.com/crazydevlegend/crazydevlegend/blob/main/golang.svg"></code>
   <code><img width="14%" height="80px" src="https://github.com/crazydevlegend/crazydevlegend/blob/main/python.svg"></code>
   <code><img width="14%" height="80px" src="https://github.com/crazydevlegend/crazydevlegend/blob/main/c++.svg"></code>
   <br />
