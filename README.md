@@ -25,11 +25,11 @@
   <img align="right" height="200" width="300" alt="GIF" src="https://github.com/crazydevlegend/crazydevlegend/blob/main/coder.gif">
 </a>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as a senior **Blockchain** 𝚊𝚗𝚍 **Full-stack** developer
-- 🌱 𝙸’𝚖 now working at [**Cryptochi**](https://www.linkedin.com/company/cryptochi) - a metaverse gaming company
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as a senior **Blockchain** | **Full-stack** developer
+- 🌱 𝙸’𝚖 now working on [**MetaRents**](https://metarents.io/) - a metaverse renting platform
 - 🤔 I’m looking to collaborate on anything!
+- I'm studying AI (Artificial Intelligence)
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://t.me/crazydevlegend/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-
 
 <br/>
 
