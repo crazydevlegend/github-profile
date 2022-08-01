@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/crazydevlegend/crazydevlegend/blob/main/Earth.gif" width="24px" style="max-width:100%;">
-  𝐇𝐞𝐥𝐥𝐨, it's Robert!
+  𝐇𝐞𝐥𝐥𝐨, it's @crazydevlegend!
   <img src="https://github.com/crazydevlegend/crazydevlegend/blob/main/Earth.gif" width="24px" style="max-width:100%;">
   
   <br /><img src="https://profile-counter.glitch.me/crazydevlegend/count.svg" />
@@ -14,7 +14,7 @@
   [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](https://join.skype.com/invite/ocOeLb8duYYV)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-carden/)
   [![Linkedin](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://crazy-dev-legend.netlify.app/)
-  [![Discord](https://img.shields.io/badge/-Discord-white?style=flat&logo=Discord)](https://discord.com/users/CrazyDevHero#7119/)
+  [![Discord](https://img.shields.io/badge/-Discord-white?style=flat&logo=Discord)](https://discord.com/users/CrazyDevLegend#0144/)
   </div>
 
 </h1>
